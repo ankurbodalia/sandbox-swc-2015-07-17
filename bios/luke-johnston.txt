@@ -1,2 +1,5 @@
 Hi! I'm Luke! I'm doing a PhD at U of T in Nutritional Sciences.
 Luke is teaching us to use Git. We can't see the bottom half of the projector in the back.
+I'm doing SWC at SickKids right now!
+
+I like data analysis :)
